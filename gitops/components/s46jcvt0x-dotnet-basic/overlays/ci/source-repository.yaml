@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: s46jcvt0x-dotnet-basic-repository
+spec:
+  url: https://github.com/xjiangorg/s46jcvt0x-dotnet-basic
